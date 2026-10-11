@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "elverdaderobotesmiguel",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "CamaraDeDiputados.aternos.me",
     "port": 37267,
-    "version": "",
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
